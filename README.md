@@ -1,4 +1,4 @@
-# ecommerce-project-app
+# Ecommerce-project-app
 
 ## Project setup
 ```
